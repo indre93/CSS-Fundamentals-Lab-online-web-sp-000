@@ -24,6 +24,6 @@ figure > figcaption {
   text-align: center;
 }
 
-p#featured-property{
+figure > p{
   width: 800px;
 }
