@@ -3,6 +3,10 @@ body {
   height: 100%;
   margin: 0;
 }
-header, body {
+header {
+  text-align: center;
+}
+}
+img {
   text-align: center;
 }
