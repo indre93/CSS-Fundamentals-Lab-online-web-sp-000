@@ -8,7 +8,7 @@ header, body {
   text-align: center;
 }
 
-.topnav {
+.topnav a {
   background-color: #ffffff;
   text-align: center;
   padding: 10px 10px;
