@@ -8,10 +8,8 @@ header, body {
   text-align: center;
 }
 
-.topnav a {
-
+.topnav {
   background-color: #ffffff;
   text-align: center;
   padding: 10px 10px;
-
 }
