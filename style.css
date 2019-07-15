@@ -16,6 +16,10 @@ figure > figcaption {
   font-size: 13px;
 }
 
+#featured-property p {
+  width: 800px;
+}
+
 #details div{
   float: left;
   background-color: red;
