@@ -9,6 +9,10 @@ header, body {
 }
 
 .topnav a {
-  color: #333;
+  float: left;
+  display: block;
+  background-color: #333;
+  text-align: center;
   padding: 10px 10px;
+  text-decoration: none;
 }
