@@ -14,7 +14,7 @@ img {
   margin-right: auto;
 }
 
-nav a {
+nav > a {
   background-color: #a1a1a1;
   margin: auto;
   padding: 10px 10px;
