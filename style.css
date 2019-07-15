@@ -8,7 +8,7 @@ h1, body {
   text-align: center;
 }
 
-a#nav {
+a.nav {
   background-color: #a1a1a1;
   text-align: center
   padding: 10px 10px;
