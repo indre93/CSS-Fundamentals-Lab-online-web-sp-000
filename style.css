@@ -23,6 +23,6 @@ body p {
   text-align: center;
 }
 
-section p {
+section > p {
   text-align: center;
 }
