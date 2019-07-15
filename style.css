@@ -8,6 +8,10 @@ h1 {
   text-align: center;
 }
 
+img {
+  image-orientation: center;
+}
+
 nav a {
   background-color: #a1a1a1;
   text-align: center
