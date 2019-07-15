@@ -12,7 +12,7 @@ nav > a {
   background-color: grey;
 }
 
-figure > figcaption {
+figure figcaption {
   font-size: 13px;
 }
 
