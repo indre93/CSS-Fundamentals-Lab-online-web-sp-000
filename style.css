@@ -20,5 +20,5 @@ figure > figcaption {
 
 p#featured-property {
   width: 800px;
-  text-indent: inherit;
+  text-underline-position: left;
 }
