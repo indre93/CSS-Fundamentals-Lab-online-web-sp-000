@@ -27,3 +27,7 @@ figure > figcaption {
 figure > p {
   width: 800px;
 }
+
+#details {
+  float: left;
+}
