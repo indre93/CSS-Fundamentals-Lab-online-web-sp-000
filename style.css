@@ -19,10 +19,6 @@ nav a {
   padding: 10px 10px;
 }
 
-a {
-  padding: 0 10px;
-}
-
 figure > figcaption {
   font-size: 13px;
   text-align: center;
