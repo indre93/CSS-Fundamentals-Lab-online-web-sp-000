@@ -3,9 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+
 header, body {
   text-align: center;
 }
+
 }
 .topnav a {
   float: left;
