@@ -18,7 +18,8 @@ nav a {
   background-color: #a1a1a1;
   display: block;
   margin-left: auto;
-  margin-right: auto;  padding: 10px 10px;
+  margin-right: auto;
+  padding: 10px 10px;
 }
 
 figure > figcaption {
