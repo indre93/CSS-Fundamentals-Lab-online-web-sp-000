@@ -24,10 +24,6 @@ figure > figcaption {
   text-align: center;
 }
 
-p {
-  width: 800px;
-}
-
 #details div{
   float: left;
   background-color: red;
