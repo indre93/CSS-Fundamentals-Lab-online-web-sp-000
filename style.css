@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-h1 {
+h1 , body, p {
   text-align: center;
 }
 
@@ -14,17 +14,9 @@ img {
   margin-right: auto;
 }
 
-a {
-  padding: 0 10px;
-}
-
 figure > figcaption {
   font-size: 13px;
   text-align: center;
-}
-
-p {
-  width: 800px;
 }
 
 #details div{
