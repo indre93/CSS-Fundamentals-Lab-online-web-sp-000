@@ -10,6 +10,6 @@ h1, img {
 
 nav > a {
   background-color: #a1a1a1;
-  text-align: center
+  align: center
   padding: 10px 10px;
 }
