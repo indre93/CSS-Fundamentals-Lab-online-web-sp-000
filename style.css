@@ -18,7 +18,7 @@ figure > figcaption {
   font-size: 13px;
 }
 
-p {
+body > p {
   width: 800px;
   text-align: center;
 }
