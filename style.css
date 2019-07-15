@@ -29,5 +29,5 @@ figure > figcaption {
 
 body p {
   width: 800px;
-  vertical-align: middle;
+  text-align: center;
 }
